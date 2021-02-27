@@ -1,7 +1,7 @@
 {
   "name": "pancakeswap-v2-subgraph",
   "version": "1.0.0",
-  "repository": "git@github.com:pancakeswap/pancakeswap-v2-subgraph.git",
+  "repository": "git@github.com:legends420/ganjaswap-v2-subgraph.git",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "codegen": "graph codegen --output-dir src/types/",
